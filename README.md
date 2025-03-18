@@ -6,7 +6,7 @@ Para o projeto de visualizacao de dados abertos, sera necessario importar o CSV 
 
 * Ano/Mês Referência
 * Ano/Mês Competência
-* Ano/Mês Competência
+* UF
 * Código Município SIAFI
 * Nome Município SIAFI
 * CPF Beneficiário
